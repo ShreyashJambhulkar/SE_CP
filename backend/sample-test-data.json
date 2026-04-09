@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Aarav Donor",
+      "email": "donor@example.com",
+      "password": "password123",
+      "role": "donor"
+    },
+    {
+      "name": "Sana Needy",
+      "email": "needy@example.com",
+      "password": "password123",
+      "role": "needy"
+    },
+    {
+      "name": "Ishita Volunteer",
+      "email": "volunteer@example.com",
+      "password": "password123",
+      "role": "volunteer"
+    }
+  ],
+  "donations": [
+    {
+      "category": "money",
+      "amount": 2500,
+      "description": "Emergency medical support"
+    },
+    {
+      "category": "food",
+      "quantity": 20,
+      "description": "Dry ration kits"
+    }
+  ],
+  "requests": [
+    {
+      "category": "education",
+      "title": "School fee support",
+      "details": "Need support for annual tuition",
+      "urgency": "high"
+    }
+  ]
+}
